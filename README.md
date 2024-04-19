@@ -1,1 +1,1 @@
-# logica-peogramacao
+# logica-programacao
